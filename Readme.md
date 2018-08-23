@@ -1,5 +1,6 @@
 # Health Insurance Charges Prediction Project
 
+
 In this project, we chose this specific insurance coverage area to focus on because the
 dataset gave us an opportunity to implement Bayesian approach(Bayesian model averaging). We
 can also compare it against the multiple regression models calculated in this insurance dataset.
@@ -20,3 +21,5 @@ of the independent variable (which is the insurance charges in this case), when 
 dependent variables happens. Thirdly, we want to make sure if homoscedasticity exists in this
 dataset. Therefore, we choose to use the homoscedasticity test to look at the distance between
 real data and our regression line.
+
+Dataset: https://www.kaggle.com/mirichoi0218/insurance
